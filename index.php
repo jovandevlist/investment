@@ -35,7 +35,7 @@
 	
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-md-12 col-sm-12">
 				<div class="card-view mt-5">
 					<div class="card-view-header">
 						<span>0x024268b2F2E30B77888080D120875405bC922dfa</span>

@@ -30,3 +30,10 @@ html, body, div, a, p, span, ul, li, table, tr, td, th, h1, h2, h3, h4 {
 .card-view-body {
 	text-align: center;
 }
+
+@media screen and (max-width: 480px) {
+
+	.card-view-header >span {
+		font-size: 13px;
+	}
+}
